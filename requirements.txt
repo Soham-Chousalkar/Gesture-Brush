@@ -1,0 +1,11 @@
+# Core dependencies for Gesture Brush
+opencv-python>=4.5.0
+numpy>=1.19.0
+
+# Optional: MediaPipe (for Python 3.11/3.12 only)
+# mediapipe>=0.8.0
+
+# Development dependencies (optional)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0 
