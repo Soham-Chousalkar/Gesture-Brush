@@ -9,7 +9,8 @@ A computer vision-based virtual painting application that allows users to draw o
 This project was developed by:
 
 - **[Vaishnavi](https://github.com/dvaish17)** - Team Lead
-- **[Vikas](https://github.com/SriVikasGanugu)** - Team Member
+- **[Soham](https://github.com/Soham-Chousalkar)**
+- **[Vikas](https://github.com/SriVikasGanugu)**
 
 ## ✨ Features
 
