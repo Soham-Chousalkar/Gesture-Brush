@@ -4,6 +4,13 @@ A computer vision-based virtual painting application that allows users to draw o
 
 ![Gesture Brush Demo](GestureBrush_ScreenShots/Screenshot%20(113).png)
 
+## 👥 Team
+
+This project was developed by:
+
+- **[Vaishnavi](https://github.com/dvaish17)** - Team Lead
+- **[Vikas](https://github.com/SriVikasGanugu)** - Team Member
+
 ## ✨ Features
 
 - **🤚 Advanced Hand Gesture Recognition**: Uses custom hand landmark detection for precise finger tracking
